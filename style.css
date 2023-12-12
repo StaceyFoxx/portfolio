@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navlist {
+  display: flex;
+}
+
+.navitem {
+  list-style: none;
+  background-color: pink;
+  padding: 50px;
+  border: 2px solid green;
+  margin-left: 10px;
+  margin-right: 10px;
+}
